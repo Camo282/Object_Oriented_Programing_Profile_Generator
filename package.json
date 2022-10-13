@@ -1,0 +1,25 @@
+{
+  "name": "object_oriented_programing_profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camo282/Object_Oriented_Programing_Profile_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Camo282/Object_Oriented_Programing_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/Camo282/Object_Oriented_Programing_Profile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
